@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class IceCreamParlour {
 
     // Complete the whatF[lavors function below.
     static void whatFlavors(int[] cost, int money) {
